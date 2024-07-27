@@ -6,4 +6,3 @@ nuevoDiv.appendChild(texto);
 
 document.body.appendChild(nuevoDiv);
 
-document.getElementById("contenedor").appendChild(nuevoDiv);
